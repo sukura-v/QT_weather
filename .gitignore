@@ -1,0 +1,43 @@
+# CMake and Qt Creator build output
+/build/
+/out/
+/target/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+*_autogen/
+*.obj
+*.o
+*.a
+*.lib
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# IDE settings
+/.qtcreator/
+/.vs/
+*.user
+*.user.*
+*.pro.user*
+
+# Local settings, credentials and runtime data
+settings.ini
+.env
+.env.*
+logs/
+*.log
+*.csv
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
